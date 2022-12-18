@@ -17,16 +17,16 @@ $ python3 Mayhem.py
 Press "escape" to exit the game at any time.
 
 ## Left player controls:
-w = Accelerate
-a = Rotate left
-d = Rotate right
-space = Fire!
+- w = Accelerate
+- a = Rotate left
+- d = Rotate right
+- space = Fire!
 
 ## Right player controls:
-up = Accelerate
-left = Rotate left
-right = Rotate right
-right ctrl = Fire!
+- up = Accelerate
+- left = Rotate left
+- right = Rotate right
+- right ctrl = Fire!
 
 
 #############################################################################
