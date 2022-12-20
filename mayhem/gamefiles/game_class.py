@@ -92,7 +92,6 @@ class Game:
 
     def collide(self):
         '''Method in game class for handling in-game object collisions.'''
-
         # Removes bullets when they make contact with still objects
         pygame.sprite.groupcollide(self.still_objects_list, self.ship1.bullet_list, False, True)
         pygame.sprite.groupcollide(self.still_objects_list, self.ship2.bullet_list, False, True)
